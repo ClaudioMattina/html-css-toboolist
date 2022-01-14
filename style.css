@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenitore-logo{
+    margin-left: 50px;
+    text-align: center;
+}
+#logo{
+    width: 100px;
+}
+#titolo{
+    display: inline-block;
+    font-size: 60px;
+}
