@@ -4,14 +4,22 @@
     padding: 0px;
 }
 
-.contenitore-logo{
-    margin-left: 50px;
-    text-align: center;
+header{
+    height: 100px;
+    width: 100%;
+    background-color: chocolate;
 }
+
 #logo{
     width: 100px;
 }
-#titolo{
+h1{
     display: inline-block;
     font-size: 60px;
+}
+.container{
+    background-color: cornflowerblue;
+    padding-left: 100px;
+    width: 400px;
+    height: 800px;
 }
