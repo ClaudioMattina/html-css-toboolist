@@ -37,6 +37,7 @@ header{
     height: 1500px;
     width: 2000px;
     margin: 100px 500px;
+    border-radius: 10px;
 }
 
 .add{
